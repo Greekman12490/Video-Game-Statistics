@@ -26,6 +26,12 @@ As we continue to maniuplate data, we wanted to see how critics and consumers ra
 
 ![Chart 2](https://github.com/Greekman12490/Video-Game-Statistics/blob/main/Images/Video%20Game%20Genre%20Critic%20and%20User%20Ratings.PNG)
 
+### Challenges
+
+When I tried using Microsoft Excel, I made multiple sheets pertaining the maniuplation of data via formulas. When I saved an closed out the window. I decided to reopen the file to see if the work was saved adequately, to my demise, it wasn't. I made the decision to use Google Sheets instead. When I used BigQuery (Google SQL platform), I upload my file using the Google Drive. With this, I was unable to change any columns names. So, with the original excel file I had for the project, I upload it to BigQuery. From there, I was able to make changes to tables as needed.
+
+
+
 
 
 

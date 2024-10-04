@@ -38,7 +38,6 @@ Here is a visual of the total amount video games per selected genres
 
 ![Chart 3](https://github.com/Greekman12490/Video-Game-Statistics/blob/main/Images/Video%20Games%20per%20Genre.png)
 
-
 ### Video Game Genre Sales per Global Region Visual
 
 Here is a visual of sales per selected genre in each global region
@@ -62,6 +61,19 @@ Here is a visual that shows critic scores per selected genre
 Here is a visual that shows consumer score per selected genre
 
 ![Chart 7](https://github.com/Greekman12490/Video-Game-Statistics/blob/main/Images/Consumer%20Scores%20per%20Video%20Game%20Genre.png)
+
+### Data and Visual Links
+
+Below are links showing the data manipulation and interactive visuals 
+
+> **Please note, the Google Sheet link will allow you to interactive with visuals shown above, a bar should be at the bottom with the name of the sheets**
+
+Google Sheets Data Manipulation - [Video Game Statistics](https://docs.google.com/spreadsheets/d/17xVlI8Svoc3IZFuhalik6YDsVKH1gJD2HLKXhKOauIg/edit?usp=sharing)
+
+Tableau Public Data Visualization Link 1 [Video Game Stats Visuals (Sales and Total Games)](https://public.tableau.com/app/profile/panagioti.pete.tsivis/viz/VideoGameStatsVisualsSalesandTotalGames/Dashboard1)
+
+Tableau Public Data Visualization Link 2 [Video Game Stats Visuals (Critic and Consumer Scores)](https://public.tableau.com/app/profile/panagioti.pete.tsivis/viz/VideoGameStatsVisualsCriticandConsumerScores/Dashboard2)
+
 
 
 

@@ -8,7 +8,7 @@ This is my capstone project for Merit America. We had choices on what we wanted 
 
 #### Which genre of video games did developers create the most and the least?
 
-When we maniuplate the data via any spreadsheet and SQL programs, we came to the conclusion that "Action" based games were created the most (3,370 out of 16,717). The least being "Puzzle" based games (580 out of 16,717). To my surprise, I thought first person shooters (FPS) or shooters as the data indiciates, would be the most. But, I was not correct on that assumption. Please check the figure below below for details.
+When we maniuplate the data via any spreadsheet and SQL programs, we came to the conclusion that "Action" based games were created the most (3,370 out of 16,717). The least being "Puzzle" based games (580 out of 16,717). Please check the figures below for details
 
 ####  Which region of the world sold the most and least games? 
 
@@ -70,9 +70,27 @@ Below are links showing the data manipulation and interactive visuals
 
 Google Sheets Data Manipulation - [Video Game Statistics](https://docs.google.com/spreadsheets/d/17xVlI8Svoc3IZFuhalik6YDsVKH1gJD2HLKXhKOauIg/edit?usp=sharing)
 
-Tableau Public Data Visualization Link 1 [Video Game Stats Visuals (Sales and Total Games)](https://public.tableau.com/app/profile/panagioti.pete.tsivis/viz/VideoGameStatsVisualsSalesandTotalGames/Dashboard1)
+Tableau Public Data Visualization Link 1 - [Video Game Stats Visuals (Sales and Total Games)](https://public.tableau.com/app/profile/panagioti.pete.tsivis/viz/VideoGameStatsVisualsSalesandTotalGames/Dashboard1)
 
-Tableau Public Data Visualization Link 2 [Video Game Stats Visuals (Critic and Consumer Scores)](https://public.tableau.com/app/profile/panagioti.pete.tsivis/viz/VideoGameStatsVisualsCriticandConsumerScores/Dashboard2)
+Tableau Public Data Visualization Link 2 - [Video Game Stats Visuals (Critic and Consumer Scores)](https://public.tableau.com/app/profile/panagioti.pete.tsivis/viz/VideoGameStatsVisualsCriticandConsumerScores/Dashboard2)
+
+## Results
+
+When going over the dat I was surprised with certain outcomes. I honestly thought "First Person Shooters" (FPS) would've sold the most. However, it came at around third. "Action" was first, which makes sense. I can make the assumption based on the average of scores on both critics and consumers that "Role-Playing" (RPG) games is what most people are fond to. It makes sense since it provides a bit of imagination for those who play those type of games.
+
+## Additional Links
+
+I am providing additional links such as where I downloaded the original file for this project and the results of my SQL data manipulation results to Google Sheets
+
+SQL Data Manipulation Link 1 [Video Game Total Sales Globally and Regionally](https://docs.google.com/spreadsheets/d/1149qkp4-qoIIFgp9jPxIjlSLrTP_qiFVhajZaFgsDuQ/edit?usp=sharing)
+
+SQL Data Manipulation Link 2 [Video Game Genre Critic and User Ratings](https://docs.google.com/spreadsheets/d/1wu2TithWcvf_30KX8Qj-PVqmyr6ORmq5giAxqlSLPic/edit?gid=676272531#gid=676272531)
+
+Kaggle Dataset Link [Video Games Data](https://www.kaggle.com/datasets/ghassenkhaled/video-games-data)
+
+## Additional Notes
+
+On the top of this page, I am providing the Google Sheets formulas I have formulated to calculate the data shown above. I will also provide the schemas and queries I used in BigQuery
 
 
 

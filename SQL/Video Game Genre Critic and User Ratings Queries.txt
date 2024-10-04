@@ -1,0 +1,66 @@
+INSERT INTO `meritamerica2024.Video_Game_Statistics.Video Game Genre Critic and User Ratings` (Genre,Max_Crit_Score,Min_Crit_Score,Avg_Crit_Score,Max_User_Score,Min_User_Score,Avg_User_Score)
+SELECT Genre, Max(Critic_Score),Min(Critic_Score),Avg(Critic_Score),Max(User_Score),Min(User_Score),Avg(User_Score)
+FROM `meritamerica2024.Video_Game_Statistics.Individual Video Game Sales and Ratings` 
+WHERE Genre = "Action"
+GROUP BY Genre;
+
+INSERT INTO `meritamerica2024.Video_Game_Statistics.Video Game Genre Critic and User Ratings` (Genre,Max_Crit_Score,Min_Crit_Score,Avg_Crit_Score,Max_User_Score,Min_User_Score,Avg_User_Score)
+SELECT Genre, Max(Critic_Score),Min(Critic_Score),Avg(Critic_Score),Max(User_Score),Min(User_Score),Avg(User_Score)
+FROM `meritamerica2024.Video_Game_Statistics.Individual Video Game Sales and Ratings` 
+WHERE Genre = "Adventure"
+GROUP BY Genre;
+
+INSERT INTO `meritamerica2024.Video_Game_Statistics.Video Game Genre Critic and User Ratings` (Genre,Max_Crit_Score,Min_Crit_Score,Avg_Crit_Score,Max_User_Score,Min_User_Score,Avg_User_Score)
+SELECT Genre, Max(Critic_Score),Min(Critic_Score),Avg(Critic_Score),Max(User_Score),Min(User_Score),Avg(User_Score)
+FROM `meritamerica2024.Video_Game_Statistics.Individual Video Game Sales and Ratings` 
+WHERE Genre = "Fighting"
+GROUP BY Genre;
+
+INSERT INTO `meritamerica2024.Video_Game_Statistics.Video Game Genre Critic and User Ratings` (Genre,Max_Crit_Score,Min_Crit_Score,Avg_Crit_Score,Max_User_Score,Min_User_Score,Avg_User_Score)
+SELECT Genre, Max(Critic_Score),Min(Critic_Score),Avg(Critic_Score),Max(User_Score),Min(User_Score),Avg(User_Score)
+FROM `meritamerica2024.Video_Game_Statistics.Individual Video Game Sales and Ratings` 
+WHERE Genre = "Misc"
+GROUP BY Genre;
+
+INSERT INTO `meritamerica2024.Video_Game_Statistics.Video Game Genre Critic and User Ratings` (Genre,Max_Crit_Score,Min_Crit_Score,Avg_Crit_Score,Max_User_Score,Min_User_Score,Avg_User_Score)
+SELECT Genre, Max(Critic_Score),Min(Critic_Score),Avg(Critic_Score),Max(User_Score),Min(User_Score),Avg(User_Score)
+FROM `meritamerica2024.Video_Game_Statistics.Individual Video Game Sales and Ratings` 
+WHERE Genre = "Platform"
+GROUP BY Genre;
+
+INSERT INTO `meritamerica2024.Video_Game_Statistics.Video Game Genre Critic and User Ratings` (Genre,Max_Crit_Score,Min_Crit_Score,Avg_Crit_Score,Max_User_Score,Min_User_Score,Avg_User_Score)
+SELECT Genre, Max(Critic_Score),Min(Critic_Score),Avg(Critic_Score),Max(User_Score),Min(User_Score),Avg(User_Score)
+FROM `meritamerica2024.Video_Game_Statistics.Individual Video Game Sales and Ratings` 
+WHERE Genre = "Racing"
+GROUP BY Genre;
+
+INSERT INTO `meritamerica2024.Video_Game_Statistics.Video Game Genre Critic and User Ratings` (Genre,Max_Crit_Score,Min_Crit_Score,Avg_Crit_Score,Max_User_Score,Min_User_Score,Avg_User_Score)
+SELECT Genre, Max(Critic_Score),Min(Critic_Score),Avg(Critic_Score),Max(User_Score),Min(User_Score),Avg(User_Score)
+FROM `meritamerica2024.Video_Game_Statistics.Individual Video Game Sales and Ratings` 
+WHERE Genre = "Role-Playing"
+GROUP BY Genre;
+
+INSERT INTO `meritamerica2024.Video_Game_Statistics.Video Game Genre Critic and User Ratings` (Genre,Max_Crit_Score,Min_Crit_Score,Avg_Crit_Score,Max_User_Score,Min_User_Score,Avg_User_Score)
+SELECT Genre, Max(Critic_Score),Min(Critic_Score),Avg(Critic_Score),Max(User_Score),Min(User_Score),Avg(User_Score)
+FROM `meritamerica2024.Video_Game_Statistics.Individual Video Game Sales and Ratings` 
+WHERE Genre = "Shooter"
+GROUP BY Genre;
+
+INSERT INTO `meritamerica2024.Video_Game_Statistics.Video Game Genre Critic and User Ratings` (Genre,Max_Crit_Score,Min_Crit_Score,Avg_Crit_Score,Max_User_Score,Min_User_Score,Avg_User_Score)
+SELECT Genre, Max(Critic_Score),Min(Critic_Score),Avg(Critic_Score),Max(User_Score),Min(User_Score),Avg(User_Score)
+FROM `meritamerica2024.Video_Game_Statistics.Individual Video Game Sales and Ratings` 
+WHERE Genre = "Simulation"
+GROUP BY Genre;
+
+INSERT INTO `meritamerica2024.Video_Game_Statistics.Video Game Genre Critic and User Ratings` (Genre,Max_Crit_Score,Min_Crit_Score,Avg_Crit_Score,Max_User_Score,Min_User_Score,Avg_User_Score)
+SELECT Genre, Max(Critic_Score),Min(Critic_Score),Avg(Critic_Score),Max(User_Score),Min(User_Score),Avg(User_Score)
+FROM `meritamerica2024.Video_Game_Statistics.Individual Video Game Sales and Ratings` 
+WHERE Genre = "Sport"
+GROUP BY Genre;
+
+INSERT INTO `meritamerica2024.Video_Game_Statistics.Video Game Genre Critic and User Ratings` (Genre,Max_Crit_Score,Min_Crit_Score,Avg_Crit_Score,Max_User_Score,Min_User_Score,Avg_User_Score)
+SELECT Genre, Max(Critic_Score),Min(Critic_Score),Avg(Critic_Score),Max(User_Score),Min(User_Score),Avg(User_Score)
+FROM `meritamerica2024.Video_Game_Statistics.Individual Video Game Sales and Ratings` 
+WHERE Genre = "Strategy"
+GROUP BY Genre;
+

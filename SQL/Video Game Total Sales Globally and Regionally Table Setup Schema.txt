@@ -1,0 +1,44 @@
+[
+{
+"description": "Video Game Genre",
+    "mode": "NULLABLE",
+    "name": "Genre",
+    "type": "STRING"
+  },
+{
+    "description": "Total number of games per genre",
+    "mode": "NULLABLE",
+    "name": "Number_of_Games",
+    "type": "FLOAT"
+},
+{
+    "description": "Sales in North America",
+    "mode": "NULLABLE",
+    "name": "NA_Sales",
+    "type": "FLOAT"
+},
+  {
+    "description": "Sales in Europe",
+    "mode": "NULLABLE",
+    "name": "EU_Sales",
+    "type": "FLOAT"
+  },
+  {
+    "description": "Sales in Japan",
+    "mode": "NULLABLE",
+    "name": "JP_Sales",
+    "type": "FLOAT"
+  },
+  {
+    "description": "Sales in other regions of the world",
+    "mode": "NULLABLE",
+    "name": "Other_Sales",
+    "type": "FLOAT"
+  },
+  {
+    "description": "Sales in total globally",
+    "mode": "NULLABLE",
+    "name": "Global_Sales",
+    "type": "FLOAT"
+  }
+]

@@ -1,0 +1,43 @@
+[{
+    "description": "Video Game Genre",
+    "mode": "NULLABLE",
+    "name": "Genre",
+    "type": "STRING"
+  },
+  {
+    "description": "Highest Critic Score",
+    "mode": "NULLABLE",
+    "name": "Max_Crit_Score",
+    "type": "FLOAT"
+  },
+  {
+    "description": "Lowest Critic Score",
+    "mode": "NULLABLE",
+    "name": "Min_Crit_Score",
+    "type": "FLOAT"
+  },
+  {
+    "description": "Average Critic Score",
+    "mode": "NULLABLE",
+    "name": "Avg_Crit_Score",
+    "type": "FLOAT"
+  },
+  {
+    "description": "Highest Consumer Score",
+    "mode": "NULLABLE",
+    "name": "Max_User_Score",
+    "type": "FLOAT"
+  },
+  {
+    "description": "Lowest Consumer Score",
+    "mode": "NULLABLE",
+    "name": "Min_User_Score",
+    "type": "FLOAT"
+  },
+  {
+    "description": "Average Consumer Score",
+    "mode": "NULLABLE",
+    "name": "Avg_User_Score",
+    "type": "FLOAT"
+  }
+]

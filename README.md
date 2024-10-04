@@ -30,6 +30,44 @@ As we continue to maniuplate data, we wanted to see how critics and consumers ra
 
 When I tried using Microsoft Excel, I made multiple sheets pertaining the maniuplation of data via formulas. When I saved an closed out the window. I decided to reopen the file to see if the work was saved adequately, to my demise, it wasn't. I made the decision to use Google Sheets instead. When I used BigQuery (Google SQL platform), I upload my file using the Google Drive. With this, I was unable to change any columns names. So, with the original excel file I had for the project, I upload it to BigQuery. From there, I was able to make changes to tables as needed.
 
+## Visuals
+
+### Video Games per Genre Visual
+
+Here is a visual of the total amount video games per selected genres
+
+![Chart 3](https://github.com/Greekman12490/Video-Game-Statistics/blob/main/Images/Video%20Games%20per%20Genre.png)
+
+
+### Video Game Genre Sales per Global Region Visual
+
+Here is a visual of sales per selected genre in each global region
+
+![Chart 4](https://github.com/Greekman12490/Video-Game-Statistics/blob/main/Images/Video%20Game%20Genre%20Sales%20per%20Global%20Region.png)
+
+### Percentage of Video Games sold per Global Region Visual
+
+Here is a visual that shows the percentage of video games sold in each global region
+
+![Chart 5](https://github.com/Greekman12490/Video-Game-Statistics/blob/main/Images/Percentage%20of%20Video%20Games%20sold%20per%20Global%20Region%20(in%20millions).png)
+
+### Critic Scores per Video Game Genre Visual
+
+Here is a visual that shows critic scores per selected genre
+
+![Chart 6](https://github.com/Greekman12490/Video-Game-Statistics/blob/main/Images/Critic%20Scores%20per%20Video%20Game%20Genre.png)
+
+### Consumer Scores per Video Game Genre Visual
+
+Here is a visual that shows consumer score per selected genre
+
+![Chart 7](https://github.com/Greekman12490/Video-Game-Statistics/blob/main/Images/Consumer%20Scores%20per%20Video%20Game%20Genre.png)
+
+
+
+
+
+
 
 
 

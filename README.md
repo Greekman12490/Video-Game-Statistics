@@ -8,7 +8,7 @@ This is my capstone project for Merit America. We had choices on what we wanted 
 
 #### Which genre of video games did developers create the most and the least?
 
-When we maniuplate the data via any spreadsheet and SQL programs, we came to the conclusion that "Action" based games were created the most (3,370 out of 16,717). The least being "Puzzle" based games (580 out of 16,717). To my surprise, I thought first person shooters (FPS) or shooters as the data indiciates, would be the most. But, I was not correct on that assumption. Please check the figures below below for details.
+When we maniuplate the data via any spreadsheet and SQL programs, we came to the conclusion that "Action" based games were created the most (3,370 out of 16,717). The least being "Puzzle" based games (580 out of 16,717). To my surprise, I thought first person shooters (FPS) or shooters as the data indiciates, would be the most. But, I was not correct on that assumption. Please check the figure below below for details.
 
 ####  Which region of the world sold the most and least games? 
 
@@ -21,6 +21,10 @@ Like before, when we maniuplate the data, North America sold the most copies of 
 #### How the critics and consumers viewed said games based on score?
 
 > **Please note, critic scores are based on a scale of 0 (lowest) - 100 (highest) and consumer (user) scores are based on a scale of 0 (lowest) - 100 (highest)**
+
+As we continue to maniuplate data, we wanted to see how critics and consumers rated games. Based on critics, the highest rated video game score in a select genre was a three way tie. "Action", "Fighting" and "Sports" all scored a 98. The lowest rated game in a select genre was "Racing" being at 13. When we average out all the scores of video games per selected genre for critics, the highest average genre would be "Role Playing" (RPG) at 72.653. The lowest average genre would be "Adventure" at 65.331. Based on the consumers, the highest rated video game score in a select genre is "Role-Playing" at 9.7. The lowest rated score in a select genre was "Adventure" with a measly 0. When we average out all the scores of video games per selected genre for consumers, the highest average genre would be "Role-Playing" at 7.620. The lowest average genre would be "Misc" at 6.819. Please check the figure below for details.
+
+![Chart 2](https://github.com/Greekman12490/Video-Game-Statistics/blob/main/Images/Video%20Game%20Genre%20Critic%20and%20User%20Ratings.PNG)
 
 
 

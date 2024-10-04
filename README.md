@@ -90,7 +90,7 @@ Kaggle Dataset Link [Video Games Data](https://www.kaggle.com/datasets/ghassenkh
 
 ## Additional Notes
 
-On the top of this page, I am providing the Google Sheets formulas I have formulated to calculate the data shown above. I will also provide the schemas and queries I used in BigQuery
+On the top of this page, I am providing the schemas and queries I used in BigQuery
 
 
 

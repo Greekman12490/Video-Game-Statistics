@@ -1,6 +1,6 @@
 ## Merit America Capstone Project - Video Game Statistics
 
-This is my capstone project for Merit America. We had choices on what we wanted to do, and I decided to work on my own case study. Now I am a gamer and I wanted to do something that involved video games. So, I decided to look into the number of sales for individual video games sold throughout the years. When I mean years.... I mean decades. I gathered my information via Kaggle where I maniuplated the data using tools such as Google Sheets and Bigquery (SQL). I wanted to ask several question regarding the data I was looking at. One, I wanted to see which genre of video games did developers create the most and the least. Two, I wanted to see which region of the world sold the most and least games. And lastly, I wanted to see how critics and consumers viewed said games based on score. 
+This is my capstone project for Merit America. We had choices on what we wanted to do, and I decided to work on my own case study. Now I am a gamer and I wanted to do something that involved video games. So, I decided to look into the number of sales for individual video games sold throughout the years. When I mean years.... I mean decades. I gathered my information via Kaggle where I maniuplated the data using tools such as Google Sheets and Bigquery (SQL). I wanted to ask several question regarding the data I was looking at. One, I wanted to see which genre of video games did developers create the most and the least. Two, I wanted to see which region of the world sold the most and least games. And lastly, I wanted to see how the critics and consumers viewed said games based on score. 
 
 ## Analysis and Challenges
 
@@ -14,7 +14,15 @@ When we maniuplate the data via any spreadsheet and SQL programs, we came to the
 
 > **Please note, the numbers describe in this analysis are in millions**
 
-Like before, when we maniuplate the data, North America sold the most copies of all genres combined (4400.84 out of 8913.64) and regions classifed as "Other" such as South America, Oceania, etc., sold the least amount of copies (791.26 out of 8913.64).
+Like before, when we maniuplate the data, North America sold the most copies of all genres combined (4400.84 out of 8913.64) and regions classifed as "Other" such as South America, Oceania, etc., sold the least amount of copies (791.26 out of 8913.64). Please check the figures below for details.
+
+![Chart 1](https://github.com/Greekman12490/Video-Game-Statistics/blob/main/Images/Video%20Game%20Total%20Sales%20Globally%20and%20Regionally.PNG)
+
+#### How the critics and consumers viewed said games based on score?
+
+> **Please note, critic scores are based on a scale of 0 (lowest) - 100 (highest) and consumer (user) scores are based on a scale of 0 (lowest) - 100 (highest)**
+
+
 
 
 
